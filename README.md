@@ -1,5 +1,8 @@
-![PAMPLEJUCE](pamplejuce.png)
-[![](https://github.com/sudara/pamplejuce/workflows/CMake/badge.svg)](https://github.com/sudara/pamplejuce/actions)
+![GRUMPINATOR](grumpinator.png)
+
+Grumpinator makes your happy audio go grumpy.
+
+# Old README provided in the sudara template
 
 Pamplejuce is a ~~template~~ lifestyle for creating and building JUCE plugins in 2021.
 
@@ -50,7 +53,7 @@ After you've created a new repo:
 
 5. Set the correct flags for your plugin under `juce_add_plugin`. Check out the API https://github.com/juce-framework/JUCE/blob/master/docs/CMake%20API.md and be sure to change things like `PLUGIN_CODE` and `PLUGIN_MANUFACTURER_CODE`.  
 
-6. Rename `AudioPluginAudioProcessor` to your plugin name in the code.
+6. Rename `GrumpinatorProcessor` to your plugin name in the code.
 
 ## Conventions
 
